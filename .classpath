@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Schule/Aufbaulehrgang/DBI 1/6BBIF/Griesmayer/04_Connection/Code_Connection_NEW/Code_Connection_NEW/ojdbc6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
